@@ -1,0 +1,793 @@
+// *{
+//     font-family:"Noto Sans"
+// }
+// .navbar-collapse{
+//     border-bottom:2px solid rgba(153,153,153,0.5);
+    
+// }
+.nav-item{
+    font-size:18px;
+    padding:0px 20px;
+    font-weight:bold;
+    font-family:"Noto Sans";
+}
+.nav-link{
+    color:#FFFFFF;
+}
+
+.bg-image{
+
+    //  height: auto;
+    //  width:100%;
+    background:linear-gradient(to bottom,rgba(0,0,0,0.6) 30%,rgba(0,0,0,0) 100%,),
+     linear-gradient(to top,black 30%,rgba(0,0,0,0) 100%);
+   
+}
+
+.text-img{
+    margin-top:200px;
+}
+#redefining{
+    font-weight:bold;
+    font-size:40px;
+    font-family:"Crimson Text";
+}
+#in-store{
+    font-weight:bold;
+    font-size:64px;
+    font-family:"Noto Sans";
+}
+#end-to-end{
+    font-size:24px;
+    font-family:"Crimson Text";
+}
+#row-on-image{
+    margin-top:100px;
+}
+
+.card{
+    background:transparent;
+    border:none;
+}
+
+.eCommerce{
+    color:#FFFFFF;
+    font-size:40px;
+    font-family:"Noto Sans";
+    font-weight:bold;
+}
+
+.payment-detail{
+    font-size:20px;
+    font-family:"Crimson Text";
+    color:#FFFFFF;
+    // padding-right:80px;
+    line-height: 2.125rem;
+}
+.btn-ecommerce{
+font-weight:bold;
+color:#FFFFFF;
+font-size:18px;
+font-family:"Noto Sans";
+border:2px solid #FFFFFF;
+border-radius:0 !important;
+padding:20px 20px 20px 20px;
+margin-right:219px;
+// min-width:385px;
+}
+
+
+
+.btn-apms{
+    font-weight:bold;
+color:#FFFFFF;
+font-size:18px;
+font-family:"Noto Sans";
+border:2px solid #FFFFFF;
+border-radius:0 !important;
+padding:20px 20px 20px 20px;
+margin-right:264px;
+}
+
+.supporting-buisness{
+    color: #0074a0;
+    font-family: "Noto Sans";
+    font-weight: bold;
+    font-size: 46px;
+line-height: 3.25rem;
+text-align: start;
+margin: 0 24px 0 0;
+}
+
+.detail-supp-buisness{
+    font-size:22px;
+    font-family:"Crimson Text";
+    line-height: 2.125rem;
+    font-weight: 100px;
+}
+.businesses-detail{
+    padding:20px 30px 20px 20px;
+}
+
+.benifits{
+    padding:50px 20px 20px 20px;
+}
+
+.benifits-text{
+    font-size:20px;
+    font-family:"Crimson Text";
+    line-height: 1.375rem;
+    color:#000000;
+padding:0px 20px 0px 0px;
+}
+
+
+
+// .verifone-bg-img{
+// position: relative;
+// z-index: 1;
+// }
+
+
+
+.business-serve{
+    font-size:28px;
+    font-family:"Nato Sans";
+    color:#563f90;
+    font-weight:bold;
+    padding:20px 0 10px;
+}
+.news-card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.news-card,.news-card-img{
+    border-radius:0 !important;
+}
+.news-card-img::before{
+    content:"";
+    background: linear-gradient(-180deg,rgba(86,63,144,0) 0%,#563f90 100%);
+    z-index:1;
+}
+.news-card-text{
+    font-size:18px;
+    font-family:"Crimson Text";
+    line-height:26px;
+}
+
+.read-more{
+    color:#0074a0;
+    font-size:18px;
+    font-family:"Crimson Text";
+    padding:12px 32px 0px 0px;
+    font-weight:bold;
+}
+.shw-mre-drpdwn{
+    font-size:16px;
+    font-family:"Nato Sans";
+    font-weight:bold;
+    margin: 0;
+}
+
+.payment-details{
+    background-color:#00a3da;
+    margin-bottom:0px;
+
+}
+#linear-gradient-pyment{
+    background:linear-gradient(-180deg,black 0%,rgba(0,0,0,0) 100%);
+    // z-index:1;
+}
+
+.news-title{
+    color:#FFFFFF;
+    font-size:24px;
+    padding:0px 0px 8px;
+    line-height: 1.8rem;
+    font-family:"Nato Sans";
+}
+
+.news-subtitle{
+    color:#FFFFFF;
+    font-size:14px;
+    font-family:"Nato Sans";
+    text-transform:uppercase;
+}
+.news1{
+    padding-top:125px;
+    background: linear-gradient(-180deg,rgba(86,63,144,0) 0%,#563f90 100%) !important;
+    height:43.2%;
+    border-radius: 0;
+}
+// .puple-grad{
+//     margin:0;
+//     background: linear-gradient(-180deg,rgba(86,63,144,0) 0%,#563f90 100%) !important;
+  
+// }
+.news2{
+    padding-top:145px;
+    background: linear-gradient(-180deg,rgba(86,63,144,0) 0%,#563f90 100%) !important;
+    height:43.2%;
+    border-radius: 0;
+}
+
+.news3{
+    padding-top:125px;
+    background: linear-gradient(-180deg,rgba(86,63,144,0) 0%,#563f90 100%) !important;
+    height:43.2%;
+    border-radius: 0;
+}
+
+.news4{
+    padding-top:125px;
+    background: linear-gradient(-180deg,rgba(86,63,144,0) 0%,#563f90 100%) !important;
+    height:43.2%;
+    border-radius: 0;
+}
+
+.need-help{
+    font-size:46px;
+    font-family:"Nato Sans";
+    padding:50px 25px 0px 0px;
+    color:#FFFFFF;
+    font-weight:bold;
+    line-height: 50px;
+}
+.need-help-subtitle{
+    font-size:24px;
+    font-family:"Crimson Text";
+    padding:50px 0px 0px 0px;
+    color:#FFFFFF;
+    font-weight:bold;
+    line-height: 40px;
+}
+// .pssble-btn-txt{
+// line-height: 25px;
+// }
+.payment-psssble-btn{
+    background:transparent;
+    font-size:22px;
+    font-family:"Nato Sans";
+    padding: 22px;
+    //  padding-left:12px;
+    border:2px solid #FFFFFF;
+    color:#FFFFFF;
+    border-radius: 0;
+    // width:50px;
+}
+
+#payment-psssble-btn{
+    padding-top:175px;
+}
+
+.solution{
+    background-image:url("https://www.verifone.com/sites/default/files/styles/16_9_1560x876/public/2021-10/ecomm_hero1_2460x1384.png?itok=i9DxfKWP");
+    width:100%;
+    height:600px;
+    position:relative;
+}
+#need-help{
+    padding-left:30px;
+}
+ .solution-lg{
+     background:linear-gradient(270deg,black 0%,rgba(0,0,0,0) 100%);
+     width:100%;
+     height:600px;
+}
+
+.soln-sptlight{
+font-size:16px;
+font-family:"Nato Sans";
+color:#FFFFFF;
+text-align:start;
+border-bottom:2px solid #FFFFFF;
+padding:120px 0px 0px 0px;
+margin-right:425px;
+}
+
+.glbl-ecomm{
+    font-size:2.875rem;
+font-family:"Nato Sans";
+color:#FFFFFF;
+text-align:start;
+font-weight:bold;
+}
+
+.glbl-ecomm-txt{
+    font-size:24px;
+font-family:"Crimson Text";
+color:#FFFFFF;
+line-height: 25px;
+}
+
+.ecomm-card{
+    background-color:#FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius:0;
+}
+.ecomm-card-txt{
+font-size:24px;
+font-family:"Crimson Text";
+color:#0E101A;
+line-height:2.125rem
+}
+
+#ecomm-card-txt-1{
+    padding-bottom:30px;
+}
+#three-cards{
+    top:500px;
+    position:absolute;
+}
+.smpl-sln{
+    color:#563f90;
+    font-size:1.75rem;
+    margin-top:240px;
+    font-family:"Nato Sans"
+}
+
+.verify{
+    font-size: 30px;
+    font-family:"Nato Sans";
+    color:#563f90;
+    font-weight: bold;
+padding:40px 10px 10px 20px;
+}
+
+.verify-list{
+font-size: 18px;
+font-family:"Crimson Text";
+color: #000000;
+padding: 5px;
+}
+
+// .carousel-item{
+//     width:1500px;
+// }
+.carousel-inner{
+    background:linear-gradient(-180deg,#000000 25%,#00a3da 100%);
+}
+
+.carousel-title{
+    font-size: 68px;
+    font-family:"Crimson Text";
+    color: #FFFFFF;
+    line-height:60px;
+}
+
+.carousel-subtitle{
+    font-size: 25px;
+    font-family:"Crimson Text";
+    color: #FFFFFF;
+    line-height: 2.125rem;
+}
+.read-mre-btn{
+    background: transparent;
+    border: 2px solid #FFFFFF;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Nato Sans";
+border-radius: 0;
+padding: 22px;
+}
+.arrow{
+    padding-left: 150px;
+}
+
+.carousl-indic{
+margin-top: 20px;
+border-radius: 100%;
+width:15px;
+height:15px;
+}
+
+.serving{
+font-size: 16px;
+font-family: "Nato Sans";
+border-bottom: 1px solid #d8d8d8;
+margin-right: 944px;
+margin-left: 50px;
+}
+
+.navbar{
+    margin-top:0;
+    // background:linear-gradient(-180deg,#000000 25%,#3d3c3c 100% );
+    background-color: transparent;
+    border-bottom:2px solid rgba(153,153,153,0.5);
+}
+
+.navbar-collapse{
+   vertical-align: text-bottom;
+//    padding-bottom: 30px;
+    // border-bottom:2px solid rgba(153,153,153,0.5);
+}
+
+.navbar-inverse{
+    background:linear-gradient(-180deg,#000000 25%,#3d3c3c 100% );
+    // background-color: #000000;
+    border-bottom:0;
+}
+.serve-count{
+    font-size: 121px;
+    font-family: "Nato Sans";
+    font-weight: bold;
+    color: #0074a0;
+}
+
+.serve-detail{
+    font-size: 32px;
+    font-family: "Crimson Text";
+    color:#222222;
+    line-height: 40px;
+}
+
+.social-res-txt{
+    font-size: 16px;
+    font-family:  "Nato Sans";
+    color: #222222;
+ border-bottom:1px solid #d8d8d8;
+ margin-right:1089px;
+}
+
+.scl-res-img{
+    width:502px;
+    height:283px;
+    border-top: 4px solid #0074a0;
+}
+
+.emp-evnt{
+    padding-top: 80px;
+    font-family: "Noto Sans",Arial,sans-serif;
+    font-size: 14px;
+    letter-spacing: 0.88px;
+    color: #444444;
+}
+
+.uplift{
+    font-family: "Noto Sans",Arial,sans-serif;
+    font-weight: bold;
+    font-size: 38px;
+    color: #0074a0;
+   margin-bottom: 8px;
+   line-height: 60px;
+}
+
+.verifone{
+    font-size: 20px;
+    font-family:"Crimson Text" ;
+    color:#4d4d4d;
+}
+
+.foot-upper{
+    background-color: #000000;
+    margin-top:150px;
+}
+.contact{
+    font-size:68px;
+    font-family:"Crimson Text";
+    color: #FFFFFF;
+    line-height: 60px;
+}
+
+.btn-cntct-us{
+    background: transparent;
+    border: 2px solid #FFFFFF;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Nato Sans";
+    border-radius: 0;
+    padding: 22px;
+    align-items: center;
+    justify-content: center;
+    margin-left:200px;
+    margin-top:100px;
+}
+footer{
+    background-color: #333333;
+}
+
+.footer-menu-head{
+    color:#fff;
+    font-family: "Nato Sans";
+    font-size: 18px;
+}
+
+.footer-subtext{
+    margin-top:40px;
+    padding-right: 20px;
+}
+
+.footer-txt{
+    font-size: 16px;
+    font-family: "Nato Sans";
+    color:#C3C3C3;
+}
+
+.footer-logo{
+    width:130px;
+}
+
+.logo-search-footer{
+    padding-top: 70px;
+    margin-bottom:70px;
+}
+
+.inpt-field-footer{
+    margin-right:60px;
+    background: #2b2a2a;
+    border:none;
+    padding: 5px;
+}
+::placeholder{
+    font-size: 18px;
+    color: #464646;
+}
+
+.copyright-txt{
+    padding: 0px 16px 0px 40px;
+    font-size: 11.2px;
+    font-family: "Nato Sans";
+    color: #999999;
+}
+
+.copyright-part{
+    margin-top:80px;
+}
+
+.notices{
+    margin-left:30px;
+}
+
+.various-notice{
+    font-size: 12px;
+    font-family: "Nato Sans";
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 0px 10px 0px 10px;
+}
+.brdr-left-notices{
+    border-right: 1px solid #FFFFFF;
+}
+
+.icons{
+    padding: 0px 20px 0px 20px;
+    color:#FFFFFF;
+     
+}
+
+#us{
+    font-size: 13px;
+    font-family: "Nato Sans";
+    vertical-align: super;
+}
+
+#social-med{
+    margin-top:0;
+    margin-right: 20px;
+}
+// ul{
+//     list-style: none;
+// }
+// .searc-icon{
+// margin-right: 50px;
+// }
+
+.btn-apms:hover{
+    transition:1s;
+    background-color: #00a3da;
+    border:transparent;
+    // position: fixed;
+}
+.btn-ecommerce:hover{
+    transition:1s;
+    background-color: #00a3da;
+    border:transparent;
+}
+.payment-psssble-btn:hover{
+    transition:1s;
+    background-color: #00a3da;
+    border:transparent;
+}
+
+.read-mre-btn:hover{
+    transition:1s;
+    background-color: #00a3da;
+    border:transparent;
+}
+
+.btn-cntct-us:hover{
+    transition:1s;
+    background-color: #00a3da;
+    border:transparent;
+}
+
+.dvce-man-lst{
+    padding-left: 40px;
+    padding-right: 13px;
+}
+
+.carousel-control-prev,.carousel-control-next {
+    width: 4% ;
+}
+
+#show-mre{
+    padding-left: 52px;
+    margin: 0px;
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    #row-border-top{
+        border-top: none;
+    }
+    #advance-border-right{
+        border-right:none;
+        border-radius:0;
+    }
+    #linear-gradient{
+        //  object-fit:cover;
+            // height:100%;
+            // background-position: center;
+            background-size: cover;
+            background-image: url('https://www.verifone.com/sites/default/files/2021-09/HPP_Hero_3200x1800.jpg');
+        }
+
+        .star{
+            margin-top:30px;
+        }
+
+        .machine-text{
+            background-color:#000000;
+            transition: all ease-in-out 600ms;
+            transform: translateY(0);
+            opacity: 1;
+             position:absolute;
+             margin-top:3rem;
+            }
+
+            .mobile-txt{
+                font-size:41px;
+                font-family:"Crimson Text";
+                color:#FFFFFF;
+                line-height: 50px;
+                padding:20px 20px 20px 20px;
+            }
+
+
+.img-mobile{
+    width:308px;
+    height:259px;
+    top:20px;
+    left:10px;
+    position:relative;
+    z-index:1;
+}
+.right-sized{
+    border-bottom:1px solid #d8d8d8;
+    margin-right:505px;
+    color:#333333;
+    text-transform:uppercase;
+    padding-bottom:15px;
+    font-size:16px;
+    font-family:"Noto Sans";
+}
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    #row-border-top{
+        border-top: none;
+    }
+    #advance-border-right{
+        border-right:none;
+        border-radius:0;
+    }
+    #linear-gradient{
+        //  object-fit:cover;
+            // height:100%;
+            // background-position: center;
+            background-size: cover;
+            background-image: url('https://www.verifone.com/sites/default/files/2021-09/HPP_Hero_3200x1800.jpg');
+        }
+
+        .star{
+            margin-top:30px;
+        }
+
+
+        .machine-text{
+            background-color:#000000;
+            transition: all ease-in-out 600ms;
+            transform: translateY(0);
+            opacity: 1;
+             position:absolute;
+             margin-top:3rem;
+            }
+
+            .mobile-txt{
+                font-size:41px;
+                font-family:"Crimson Text";
+                color:#FFFFFF;
+                line-height: 50px;
+                padding:20px 20px 20px 20px;
+            }
+
+
+.img-mobile{
+    width:308px;
+    height:259px;
+    top:20px;
+    left:10px;
+    position:relative;
+    z-index:1;
+}
+
+.right-sized{
+    border-bottom:1px solid #d8d8d8;
+    margin-right:505px;
+    color:#333333;
+    text-transform:uppercase;
+    padding-bottom:15px;
+    font-size:16px;
+    font-family:"Noto Sans";
+}
+}
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    #row-border-top{
+        border-top: 2px solid rgba(255,255,255,0.6);
+    }
+    #advance-border-right{
+        border-right: 2px solid rgba(255,255,255,0.6);
+        border-radius:0;
+    }
+
+    #linear-gradient{
+        //  object-fit:cover;
+            // height:100%;
+            // background-position: center;
+            background-size: cover;
+            background-image: url('https://www.verifone.com/sites/default/files/2021-09/HPP_Hero_3200x1800.jpg');
+        }
+
+        .star{
+            margin-top:0px;
+        }
+
+        .machine-text{
+            background-color:#000000;
+            transition: all ease-in-out 600ms;
+            transform: translateY(0);
+            opacity: 1;
+             position:absolute;
+            margin-top:1.5rem;
+            }
+
+            .mobile-txt{
+                font-size:60px;
+                font-family:"Crimson Text";
+                color:#FFFFFF;
+                line-height: 60px;
+                padding:20px 20px 20px 20px;
+            }
+
+
+.img-mobile{
+    width:350px;
+    height:300px;
+    top:0px;
+    left:10px;
+    position:relative;
+    z-index:1;
+}
+.right-sized{
+    border-bottom:1px solid #d8d8d8;
+    margin-right:905px;
+    color:#333333;
+    text-transform:uppercase;
+    padding-bottom:15px;
+    font-size:16px;
+    font-family:"Noto Sans";
+}
+}
